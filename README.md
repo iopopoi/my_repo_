@@ -1,5 +1,6 @@
 
 # Who am I?
+<br>
 #### " 안녕하세요. 저는 한양대학교 ERICA 소프트웨어학부 김혜원입니다."
 
 * name "김혜원"
@@ -11,8 +12,7 @@
 <br>
 
 # My Team?
-
-  
+<br>
 ###  team name   _  " tudac " / " 뚜닥 "
 ### team member
 
@@ -27,3 +27,6 @@ _ [huskycat1202](https://huskycat1202.github.io/)
   
 
 ### tudac ?
+### icon
+*뚜닥이
+<img src = "./C_icon.png" width="380">
