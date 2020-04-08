@@ -29,4 +29,4 @@ _ [huskycat1202](https://huskycat1202.github.io/)
 ### tudac ?
 ### icon
 *뚜닥이
-<img src = "./C_icon.png" width="380">
+<img src = "my_repo_\C_icon.png" width="380">
