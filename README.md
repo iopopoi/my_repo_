@@ -29,6 +29,6 @@ _ [huskycat1202](https://huskycat1202.github.io/)
   
 
 ### tudac ?
-### icon
-* 뚜닥이
+* A chick can do anything.
+* icon
 <img src = "./image/C_icon.png" width="380">
