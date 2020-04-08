@@ -16,14 +16,14 @@
 ###  team name   _  " tudac " / " 뚜닥 "
 ### team member
 
-* 길정민 _ 2019095414 
-
+* 길정민_ 2019095414 
+_  [kjmin622](https://kjmin622.github.io/)
 * 김혜원 _ 2019028313
-
+_  [iopopoi](https://iopopoi.github.io/)
 * 이성민 _ 2019000773
-
+_ [lee-sungmin](https://lee-sungmin.github.io/)
 * 이현지 _ 2019052251
-
+_ [huskycat1202](https://huskycat1202.github.io/)
   
 
 ### tudac ?
